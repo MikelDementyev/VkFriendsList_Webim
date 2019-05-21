@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="progress_view_height">40dp</dimen>
+    <dimen name="progress_view_width">40dp</dimen>
+    <dimen name="avatar_width">40dp</dimen>
+    <dimen name="avatar_height">40dp</dimen>
+    <dimen name="online_size">10dp</dimen>
+</resources>

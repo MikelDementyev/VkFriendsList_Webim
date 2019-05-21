@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VKFriendsList</string>
+    <string name="login_button_title">Авторизоваться</string>
+    <string name="login_error_message">Error</string>
+    <string name="friend_no_item">У вас нет друзей</string>
+    <string name="login_error_credentials">Ошибка при попытке входа</string>
+    <string name="friend_no_city">Город не указан</string>
+    <string name="error_loading_friends">Ошибка при загрузке списка друзей</string>
+    <string name="is_login">is_login</string>
+
+
+    <integer name="com_vk_sdk_AppId">6991172</integer>
+</resources>
